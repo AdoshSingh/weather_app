@@ -8,8 +8,6 @@ in a click of a button. You can also enter the zip code of your city to get the 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
