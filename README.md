@@ -13,7 +13,7 @@ in a click of a button. You can also enter the zip code of your city to get the 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/my-awesome-project.git` run this in terminal in your desired folder.
+1. Clone the repository: `git clone  https://github.com/AdoshSingh/weather_app.git` run this in terminal in your desired folder.
 
 2. Install dependencies: `npm install` run this in the same folder, it will install the dependencies required in the project.
 
