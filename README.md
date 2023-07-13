@@ -24,7 +24,7 @@ npm run start
 Now after running this command if your browser window does not open automatically,
 you can visit `http://localhost:3000` in your browser to see the application.
 
-Or if you don't want to go through this hassle just open [https://weather-app7403.netlify.app/]("https://weather-app7403.netlify.app/") in your browser.
+Or if you don't want to go through this hassle just open [https://weather-app7403.netlify.app/](https://weather-app7403.netlify.app/) in your browser.
 
 ## Features
 
